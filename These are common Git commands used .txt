@@ -58,4 +58,9 @@ Working with branches
     branch -r   shows remote branches
     branch -a   shows all branches
     branch "name of a branch" create a new branch
+<<<<<<< HEAD
     checkout    switch between branches
+=======
+    checkout    switch between branches
+    branch -d   delete branch
+>>>>>>> b3a49ef (Added some notes about branches on a Textfile)
