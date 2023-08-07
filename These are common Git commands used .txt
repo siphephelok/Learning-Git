@@ -51,3 +51,11 @@ The command stands for:
 "rm" - which stands for "remove."
 "-r" - which stands for "recursive," meaning the command will remove directories and their contents, including subdirectories and files within them.
 "-f" - which stands for "force," and it is used to suppress any prompts or warnings, ensuring that the removal process happens without any interactive confirmation.
+
+Working with branches
+
+    branch      shows current branch
+    branch -r   shows remote branches
+    branch -a   shows all branches
+    branch "name of a branch" create a new branch
+    checkout    switch between branches
